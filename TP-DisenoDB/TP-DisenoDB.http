@@ -1,0 +1,6 @@
+@TP_DiseñoDB_HostAddress = http://localhost:5047
+
+GET {{TP_DiseñoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
