@@ -23,7 +23,7 @@ services:
 
   api-app:
     build:
-      context: ./TP-DisenoDB
+      context: ./src/TP-DisenoDB
       dockerfile: Dockerfile
     container_name: api-app
     depends_on:

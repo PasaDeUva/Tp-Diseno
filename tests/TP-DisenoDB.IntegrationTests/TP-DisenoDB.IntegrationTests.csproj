@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TP-DisenoDB\TP-DisenoDB.csproj" />
+    <ProjectReference Include="..\..\src\TP-DisenoDB\TP-DisenoDB.csproj" />
   </ItemGroup>
 
 </Project>
